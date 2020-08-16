@@ -6,7 +6,7 @@
 #include<cmath>
 #include<iomanip>
 #include<map>
-using namespace std;
+using namespace std; //coment
 void getdeadline(string &s1 , string &s2)
 {
   double d1;
